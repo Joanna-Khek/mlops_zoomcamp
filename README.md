@@ -1,4 +1,6 @@
 # MLOps Zoomcamp by DataTalksClub
+[DataTalksClub mlops_zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+
 
 ## Timeline
 
